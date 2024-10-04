@@ -1,5 +1,5 @@
 
-CLI Chat Room Application
+# CLI Chat Room Application
 
 This is a basic client-server chat room project built using Java. The project allows multiple clients to connect to a server, exchange messages in real-time, and see notifications when someone enters or leaves the chat room. It demonstrates fundamental concepts such as Sockets and Threads.
 
