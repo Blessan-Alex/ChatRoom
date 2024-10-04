@@ -28,12 +28,6 @@ If the server is running and three clients are connected, the total number of th
 4 threads on the server (1 main thread + 3 client-handling threads).
 6 threads on the clients (2 threads per client for sending and receiving messages).
 ## Installation
-
-
-```bash
-  npm install my-project
-  cd my-project
-```
 Clone the repository or download the project files.
 
 Make sure Java is installed on your system.
